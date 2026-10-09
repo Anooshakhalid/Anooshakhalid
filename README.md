@@ -1,4 +1,4 @@
-# Hi, I'm Anoosha Khalid 👋
+# Hey, I'm Anoosha Khalid Raza👋
 
 ### Computer Systems Engineer | AI/ML | Data Science | AI-Powered Applications
 
@@ -31,7 +31,6 @@ Bachelor of Engineering in Computer & Information Systems Engineering
 - LLM Security Testing
 - Machine Learning
 - Computer Vision
-- Sentence Embeddings & Semantic Search
 
 ### Data Science & Analytics
 - Python
@@ -74,62 +73,7 @@ Bachelor of Engineering in Computer & Information Systems Engineering
 
 **AI & Data Stack**
 
-`LangChain` · `FAISS` · `Sentence Transformers` · `Streamlit` · `Hopsworks` · `InfluxDB` · `Grafana` · `Groq`
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 RAG-Based Student–Teacher Portal
-
-A question-answering application that retrieves relevant information from student–teacher data and generates responses using a retrieval-augmented generation pipeline.
-
-**Technologies:** Python · Flask · FAISS · LangChain · Sentence Transformers · Groq Llama
-
-### 🌦️ Weather Prediction
-
-A machine learning project focused on weather prediction, with an interactive application for presenting predictions and results.
-
-**Technologies:** Python · Hopsworks · Streamlit · GitHub Actions
-
-### 👁️ In-Line Tablet Quality Control — Final Year Design Project
-
-A computer vision-based quality control system designed to support tablet inspection in a production setting.
-
-**Technologies:** Computer Vision · Raspberry Pi 4B (8 GB) · Docker · InfluxDB · Grafana
-
-### 📊 Ideas Portal
-
-A web-based portal developed as part of my work with NED Scholars, supporting the submission and management of ideas.
-
-**Technologies:** Web Development · Software Engineering
-
-### 🧠 NeuroCheck
-
-A machine learning/computer vision-oriented project in my GitHub portfolio.
-
-**Technologies:** Refer to the project repository for the specific implementation and stack.
-
-> Add links to the individual project repositories in this section so visitors can explore the code and documentation.
-
----
-
-## 🏆 Achievements & Recognition
-
-- 🥈 **CIS Hackathon 2026 — Automation Runner-Up:** Recognized with my team in a three-day automation challenge.
-- 🎓 **NED Scholars Need-Cum-Merit Scholarship:** Awarded financial support based on need and merit.
-- 💻 **Prime Minister's Youth Laptop Scheme:** Recipient.
-- ⭐ **Top 30 in graduating batch:** NED University of Engineering & Technology.
-
----
-
-## 🌱 Currently Exploring
-
-- AI engineering and practical LLM applications
-- RAG pipeline evaluation and retrieval quality
-- LLM security and prompt injection testing
-- SQL and data analytics
-- Software product workflows and application development
+`FAISS` · `Sentence Transformers` · `Streamlit` · `Hopsworks` · `InfluxDB` · `Grafana` · `Groq`
 
 ---
 
