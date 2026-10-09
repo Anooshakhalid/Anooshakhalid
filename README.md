@@ -13,7 +13,7 @@ My experience spans Retrieval-Augmented Generation (RAG), machine learning, comp
 
 ---
 
-## 🎓 Education
+## Education
 
 **NED University of Engineering & Technology, Karachi**
 
@@ -21,51 +21,7 @@ Bachelor of Engineering in Computer & Information Systems Engineering
 
 ---
 
-## 🧠 Technical Skills
-
-### Artificial Intelligence & Machine Learning
-- Retrieval-Augmented Generation (RAG)
-- Large Language Model (LLM) Applications
-- Prompt Engineering & Evaluation
-- AI Response Evaluation
-- LLM Security Testing
-- Machine Learning
-- Computer Vision
-
-### Data Science & Analytics
-- Python
-- SQL
-- MySQL
-- Data Processing & Analysis
-- Weather Prediction
-- Data Visualization
-- Exploratory Data Analysis
-
-### AI Application Development
-- Flask
-- LangChain
-- FAISS
-- Sentence Transformers
-- Streamlit
-- Groq LLM API
-
-### Software & Deployment
-- Git & GitHub
-- GitHub Actions
-- Docker
-- REST API Fundamentals
-- HTML & CSS
-- JavaScript Fundamentals
-
-### Monitoring & Data Infrastructure
-- InfluxDB
-- Grafana
-- Hopsworks
-- Raspberry Pi
-
----
-
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,mysql,flask,git,github,docker,html,css,js,linux,githubactions" alt="Python, MySQL, Flask, Git, GitHub, Docker, HTML, CSS, JavaScript, Linux and GitHub Actions" />
@@ -77,7 +33,7 @@ Bachelor of Engineering in Computer & Information Systems Engineering
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anooshakhalid&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics" />
@@ -86,7 +42,7 @@ Bachelor of Engineering in Computer & Information Systems Engineering
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <p align="left">
   <a href="https://github.com/Anooshakhalid">
