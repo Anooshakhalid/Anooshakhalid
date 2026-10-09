@@ -6,19 +6,6 @@ I'm a Computer & Information Systems Engineering graduate from **NED University 
 
 My experience spans Retrieval-Augmented Generation (RAG), machine learning, computer vision, data science, and AI product testing. I enjoy exploring the intersection of AI, data, and real-world software products.
 
-- 🎓 **Education:** B.E. Computer & Information Systems Engineering — NED University
-- 🤖 **Interests:** AI/ML, RAG Systems, Data Science, LLM Security
-- 🔬 **Experience:** Data Science, RAG Development, AI Product Testing
-- ✍️ **Writing:** Sharing thoughts and ideas on Medium
-
----
-
-## Education
-
-**NED University of Engineering & Technology, Karachi**
-
-Bachelor of Engineering in Computer & Information Systems Engineering
-
 ---
 
 ## Tools & Technologies
